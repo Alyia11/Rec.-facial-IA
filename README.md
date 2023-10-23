@@ -1,6 +1,8 @@
 # Rec.-faciale-IA
 Projet étudiant portant sur "la reconnaissance des émotions faciales par l'intelligence artificielle"
 
+TEST
+
 ## Structure du projet
 ---------
 **DeepFace :** Il s'agit d'un répertoire qui contient un fichier Python Webcam, et un fichier Notebook DeepFace_notebook.
